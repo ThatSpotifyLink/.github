@@ -10,7 +10,7 @@ Song Guesser Bot using Tweepy, Spotify Web API and ShazamKit
 <p>
   
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tweepy-black?logo=twitter">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpotifyWebAPI-black?logo=spotify">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ShazamKit-black?logo=shazam">
+  <a href="https://www.tweepy.org/"><img alt="Static Badge" href= "https://www.tweepy.org/" src="https://img.shields.io/badge/Tweepy-black?logo=twitter"></a>
+  <a href="https://developer.spotify.com/documentation/web-api"><img src="https://img.shields.io/badge/SpotifyWebAPI-black?logo=spotify"></a>
+  <a href="https://www.shazam.com/shazamkit"><img alt="Static Badge" src="https://img.shields.io/badge/ShazamKit-black?logo=shazam"></a>
 <p>
